@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "pestphp/pest": "^1.0"
+    },
+    "require": {
+        "php": ">=7.3",
+        "symfony/dotenv": "^5.2"
+    }
+}
